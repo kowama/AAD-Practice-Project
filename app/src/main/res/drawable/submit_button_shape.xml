@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+ <corners android:radius="25dp">
+ </corners>
+ <solid  android:color="@color/buttonSubmitColor" />
+ <gradient
+     android:type="linear"
+     android:angle="135"
+     android:gradientRadius="5dp"
+     android:startColor="@color/buttonSubmitColor"
+     android:endColor="#C3934C"/>
+</shape>
