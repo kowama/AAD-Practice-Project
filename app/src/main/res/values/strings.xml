@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">PluralSight</string>
+    <string name="app_name">AAD Practice Project</string>
     <string name="title_activity_submit">SubmitActivity</string>
     <string name="student_badge">badge</string>
     <string name="name">0X Kowama</string>
     <string name="details">30 Learning hours, Burkina</string>
-    <string name="leaderbord">AAD Practice Project</string>
+    <string name="leaderboard">LEADERBOARD</string>
     <!--
     This string is used for square devices and overridden by hello_world in
     values-round/strings.xml for round devices.
